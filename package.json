@@ -1,0 +1,10 @@
+{
+  "name": "com.spicyoverlord.spicycurtainas",
+  "displayName": "Spicy Curtains",
+  "version": "1.0.0",
+  "description": "SpicyCurtains is a simple scene trasition plugin.",
+  "author": {
+    "name": "Spicy Overlord",
+    "url": "https://github.com/SpicyOverlord"
+  }
+}
